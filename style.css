@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  text-align: center;
+  padding: 50px;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #444;
+}
+
+#timer {
+  font-size: 24px;
+  color: #ff5733;
+  font-weight: bold;
+}
